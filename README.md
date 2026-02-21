@@ -11,8 +11,6 @@ A cybersecurity monitoring dashboard that analyzes system logs in real-time and 
 - Attack simulation
   
 ## 🔥 Project Highlights
-
-- Built full-stack cybersecurity monitoring system
 - Implemented Isolation Forest for anomaly detection
 - Real-time log streaming & attack simulation
 - Interactive dashboard with security alerts
@@ -33,3 +31,4 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 app.py
+
